@@ -1,0 +1,13 @@
+127.0.0.1 - - [16/Mar/2023:19:43:39 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:43:40 +0530] "GET /MedicalProject/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:43:40 +0530] "GET /MedicalProject/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:43:40 +0530] "GET /MedicalProject/google.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:43:40 +0530] "GET /MedicalProject/fb.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:43:40 +0530] "GET /MedicalProject/login.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:43:40 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+127.0.0.1 - - [16/Mar/2023:19:45:33 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:45:34 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:45:47 +0530] "POST /MedicalProject/ViewPage.jsp HTTP/1.1" 200 3594
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:45:47 +0530] "GET /MedicalProject/1.css HTTP/1.1" 404 1034
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:45:47 +0530] "GET /MedicalProject/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:19:45:47 +0530] "GET /MedicalProject/home2.jpg HTTP/1.1" 304 -

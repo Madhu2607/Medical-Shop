@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MedicalProject/src/main/webapp/facebook1.jfif&apos; to &apos;facebook1.jpg&apos;" description="Rename resource &apos;facebook1.jfif&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/facebook1.jfif" name="facebook1.jpg" stamp="1672067028870" updateReferences="true"/>
+</session>

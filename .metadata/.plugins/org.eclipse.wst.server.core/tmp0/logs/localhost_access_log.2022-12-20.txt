@@ -1,0 +1,13 @@
+127.0.0.1 - - [20/Dec/2022:14:44:45 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:14:44:45 +0530] "GET /MedicalProject/login.html HTTP/1.1" 200 452
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:14:44:45 +0530] "GET /MedicalProject/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:14:44:45 +0530] "GET /MedicalProject/images.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:14:44:46 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:14:45:14 +0530] "GET /MedicalProject/login.html HTTP/1.1" 200 451
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:14:48:44 +0530] "GET /MedicalProject/login.html HTTP/1.1" 200 451
+127.0.0.1 - - [20/Dec/2022:19:28:42 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:19:28:43 +0530] "GET /MedicalProject/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:19:28:43 +0530] "GET /MedicalProject/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:19:28:43 +0530] "GET /MedicalProject/images.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:19:28:43 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [20/Dec/2022:19:28:56 +0530] "POST /MedicalProject/new.jpg HTTP/1.1" 200 4513

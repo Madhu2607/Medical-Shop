@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+*{
+	padding:0;
+	margin:0;
+	font-family:Sams-seri;
+}
+body
+{
+	
+	background-image:url("madhu.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.login-form
+{
+	width:350px;
+	top:35%;
+	left:20%;
+	transform:translate(-50%,-50%);
+	position:absolute;
+	color:black;
+}
+.login-form p
+{
+	font-size:20px;
+	margin:15px 0;
+}
+.login-form input
+{
+	font-size:16px;
+	width:100%;
+	padding:15px 10px;
+	border:0;
+	outline:none;
+	border-radius:5px;
+}

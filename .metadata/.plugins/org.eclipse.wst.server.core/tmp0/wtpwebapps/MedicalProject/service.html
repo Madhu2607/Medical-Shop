@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<style>
+.styleicon
+{
+ padding:0;
+ margin:0;
+ box-sizing:border-box;
+ border:  2px solid black;
+ max-width:500px;
+ background-color:white;
+ margin:20px auto;
+ padding: 30px;
+ box-shadow:5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.styleicon p
+{
+  margin-top:1%;
+  font-size:24px;
+  font-weight:700;
+  margin-bottom:25px;
+  text-align:center;
+  color:navy;
+}
+.styleicon .form
+{
+   width:100%;
+   
+}
+.styleicon .form .input
+{
+   margin-bottom:15 px;
+   
+}
+.styleicon .form .input label
+{
+ border:2px solid;
+}
+body
+{
+  background-color:#D071F9;
+  padding:0 10 px;
+  
+}
+h1
+{
+ border:  2 px solid black;
+}
+</style>
+
+<div class="styleicon">
+<p> Update Table</p>
+<form method="post" action="update.jsp">
+
+<label>Quantity</label>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="t1"> <br><br>
+Item Name:&nbsp;&nbsp;<input  type="text" name="t2"> <br><br>
+MFG:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"   name="t3"> <br><br>
+BatchNo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input  type="text" name="t4"> <br><br>
+MRP:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="t5"> <br><br>
+Exp Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="t6"> <br><br>
+Rate:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input  type="text" name="t7"><br><br>
+AmountRs.:&nbsp;&nbsp;<input type="text" name="t8"> <br><br>
+<input col="4" type="submit" value="update">
+</div>
+</form>
+
+</body>
+</html>
